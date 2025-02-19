@@ -12,14 +12,14 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ### ⚡ My Latest Activity
 
 <!--START_SECTION:activity-->
-1. 📥 Opened a PR in a private repo
-2. 📝 Committed to a private repo
-3. 📥 Opened [PR #276](https://github.com/BlackIQ/Hello-World/pull/276) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-4. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/77e73564bb4af1c110a734cf6b533ffd94bd31d2)
-5. 🍴 Forked [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-6. ⭐ Starred [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
-7. undefined
-8. 📝 Committed to [thegreatsourcerer/amazingly-awesome-github-profile-readmes](https://github.com/thegreatsourcerer/amazingly-awesome-github-profile-readmes/commit/12882eba2d5a07ad3329655e4eaf6148f9d1a9f6)
-9. 📝 Committed to [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos/commit/3154f48506dae5b2df0aec4ba78fd834699231ef)
-10. 📝 Committed to [thegreatsourcerer/thegreatsourcerer](https://github.com/thegreatsourcerer/thegreatsourcerer/commit/553b763105bcf9083ae7748fd2e5eee4db6f11c2)
+1. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+2. 📝 Committed to [thegreatsourcerer/activity-log](https://github.com/thegreatsourcerer/activity-log/commit/a29507e6e14790ca33f6b79303f1cc149e9cd57d)
+3. 📝 Committed to [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos/commit/a7fc8a780138aa0d70244485281d632df9fa69ea)
+4. 🗑️ Deleted a branch `testing-branch` in [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos)
+5. 📝 Committed to [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos/commit/7189997194e8e77a871500bf1eec95bb2c18b1ff)
+6. 🔀 Merged [PR #1](https://github.com/thegreatsourcerer/awesome-github-repos/pull/1) in [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos)
+7. 📝 Committed to [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos/commit/7189997194e8e77a871500bf1eec95bb2c18b1ff)
+8. 📥 Opened [PR #1](https://github.com/thegreatsourcerer/awesome-github-repos/pull/1) in [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos)
+9. ➕ Created a new branch [`testing-branch`](https://github.com/thegreatsourcerer/awesome-github-repos/tree/testing-branch) in [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos)
+10. 📝 Committed to [thegreatsourcerer/awesome-github-repos](https://github.com/thegreatsourcerer/awesome-github-repos/commit/7d6d0febe05dec8144ae2cfe02ebbee548941476)
 <!--END_SECTION:activity-->
