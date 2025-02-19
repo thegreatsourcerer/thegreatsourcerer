@@ -1,0 +1,24 @@
+# .github/workflows/update-activity.yml:
+
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v0.0.8
+        with:
+          GITHUB_USERNAME: "thegreatsourcerer"
+          GITHUB_TOKEN: ${{ secrets.ACTIVITY_LOG_TOKEN }}
+          EVENT_LIMIT: 10
+          OUTPUT_STYLE: MARKDOWN
+          IGNORE_EVENTS: "[]"
+          README_PATH: README.md
+          COMMIT_MESSAGE: "⚡ Update README.md with latest activity"
