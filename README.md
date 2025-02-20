@@ -11,6 +11,10 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## ⚡ My Latest Commit
 
 <!-- LATESTCOMMIT:START -->
+
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/3026f506caa9c7875e402d186fff285ba9d36045dfd6d93ff2237aec0dcb809b/thegreatsourcerer/thegreatsourcerer/commit/7abdc208832bfd1367e840879883225dcf18b13f" />][commitUrl]
+
+[commitUrl]: https://github.com/thegreatsourcerer/thegreatsourcerer/commit/7abdc208832bfd1367e840879883225dcf18b13f
 <!-- LATESTCOMMIT:END -->
 
 
