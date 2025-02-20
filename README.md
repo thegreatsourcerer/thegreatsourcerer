@@ -17,9 +17,9 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 [commitUrl]: https://github.com/thegreatsourcerer/thegreatsourcerer/commit/7abdc208832bfd1367e840879883225dcf18b13f
 <!-- LATESTCOMMIT:END -->
 
-
-### ⚡ My Latest Activity
-
+<details>
+ <h3>⚡ My Latest Activity</h3>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on issue [#277](https://github.com/BlackIQ/Hello-World/issues/277) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World): [View Comment](https://github.com/BlackIQ/Hello-World/issues/277#issuecomment-2670981495)
 2. 🗑️ Deleted a branch `update-readme` in a private repo
@@ -32,3 +32,4 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 9. 🗣 Commented on issue [#276](https://github.com/BlackIQ/Hello-World/issues/276) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World): [View Comment](https://github.com/BlackIQ/Hello-World/issues/276#issuecomment-2669326257)
 10. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
 <!--END_SECTION:activity-->
+</details>
