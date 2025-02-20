@@ -8,6 +8,11 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 - ⚡ Fun fact: I'm a ☕ dependent lifeform
 
 
+## ⚡ My Latest Commit
+
+<!-- LATESTCOMMIT:START -->
+<!-- LATESTCOMMIT:END -->
+
 
 ### ⚡ My Latest Activity
 
