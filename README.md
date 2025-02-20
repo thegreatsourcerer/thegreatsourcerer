@@ -7,6 +7,9 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I'm a ☕ dependent lifeform
 
+
+## :zap: My latest activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on issue [#277](https://github.com/BlackIQ/Hello-World/issues/277) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World): [View Comment](https://github.com/BlackIQ/Hello-World/issues/277#issuecomment-2670981495)
 2. 🗑️ Deleted a branch `update-readme` in a private repo
