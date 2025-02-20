@@ -7,16 +7,6 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I'm a ☕ dependent lifeform
 
-
-## ⚡ My Latest Commit
-
-<!-- LATESTCOMMIT:START -->
-
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/3026f506caa9c7875e402d186fff285ba9d36045dfd6d93ff2237aec0dcb809b/thegreatsourcerer/thegreatsourcerer/commit/7abdc208832bfd1367e840879883225dcf18b13f" />][commitUrl]
-
-[commitUrl]: https://github.com/thegreatsourcerer/thegreatsourcerer/commit/7abdc208832bfd1367e840879883225dcf18b13f
-<!-- LATESTCOMMIT:END -->
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on issue [#277](https://github.com/BlackIQ/Hello-World/issues/277) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World): [View Comment](https://github.com/BlackIQ/Hello-World/issues/277#issuecomment-2670981495)
 2. 🗑️ Deleted a branch `update-readme` in a private repo
