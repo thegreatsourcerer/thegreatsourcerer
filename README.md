@@ -23,3 +23,8 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 10. ➕ Created a new branch `main` in a private repo
 <!--END_SECTION:activity-->
 
+
+### My Contribution Graph
+
+![snake gif](https://github.com/thegreatsourcerer/thegreatsourcerer/blob/output/ocean.gif)
+
