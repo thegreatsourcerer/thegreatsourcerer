@@ -11,16 +11,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/6d6bac8d085919bf67ab825973b924fa417d5fce)
-2. 📥 Opened [PR #2](https://github.com/thegreatsourcerer/github-actions/pull/2) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-3. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/6f7861ea3bec52af6e1197cbfbfd95444edbad6f)
-4. ➕ Created a new branch [`add-code-of-conduct`](https://github.com/thegreatsourcerer/github-actions/tree/add-code-of-conduct) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-5. 📥 Opened [PR #1](https://github.com/thegreatsourcerer/github-actions/pull/1) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-6. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/52c7a0f132b79110063fb7161eae688d5db6aff4)
-7. ➕ Created a new branch [`add-license`](https://github.com/thegreatsourcerer/github-actions/tree/add-license) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-8. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/61151bf112b09e22c5a8ebc3fb12244b9ac627fb)
-9. 🎉 Created a new repository [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
-10. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/github-actions/tree/main) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+1. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/5e02984f44cdf5d6520037a3f0adf47822b00a9e)
+2. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/077a4a238fb6e551e061a780bc121a7cf798ea38)
+3. 🗑️ Deleted a branch `create-pull-request/patch` in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+4. 📥 Opened [PR #3](https://github.com/thegreatsourcerer/github-actions/pull/3) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+5. ➕ Created a new branch [`create-pull-request/patch`](https://github.com/thegreatsourcerer/github-actions/tree/create-pull-request/patch) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+6. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/aafb3722b087569f33e983f6794d65a9bfd1c0ff)
+7. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/eb97a3c8eca7742f1190dc86842b438c6bba4a9e)
+8. 🗑️ Deleted a branch `pull-request-example` in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+9. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/794cd57c77483db7b93379fde387a94f457b89f2)
+10. ➕ Created a new branch [`pull-request-example`](https://github.com/thegreatsourcerer/github-actions/tree/pull-request-example) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
 <!--END_SECTION:activity-->
 
 
