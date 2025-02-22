@@ -11,16 +11,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on issue [#278](https://github.com/BlackIQ/Hello-World/issues/278) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World): [View Comment](https://github.com/BlackIQ/Hello-World/issues/278#issuecomment-2674052218)
-2. 📝 Committed to [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux/commit/d7edd75635978cbb90728f1a197ae05e54bbb760)
-3. 🗑️ Deleted a branch `classic` in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-4. 📝 Committed to [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux/commit/1345115de0feb97213c3effcf811a768f08c5d27)
-5. 🗑️ Deleted a branch `mac` in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-6. ➕ Created a new tag [`miasma`](https://github.com/thegreatsourcerer/dotfiles-linux/releases/tag/miasma) in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-7. ➕ Created a new branch [`classic`](https://github.com/thegreatsourcerer/dotfiles-linux/tree/classic) in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-8. ➕ Created a new branch [`mac`](https://github.com/thegreatsourcerer/dotfiles-linux/tree/mac) in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-9. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/dotfiles-linux/tree/main) in [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
-10. 🎉 Created a new repository [thegreatsourcerer/dotfiles-linux](https://github.com/thegreatsourcerer/dotfiles-linux)
+1. 📥 Opened [PR #280](https://github.com/BlackIQ/Hello-World/pull/280) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+2. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/1746f9243361c0e449f00cc50f278026fdb97937)
+3. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/1be8f91557b51c1e1a68e7d708f51876fa391d88)
+4. 📥 Opened [PR #279](https://github.com/BlackIQ/Hello-World/pull/279) in [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World)
+5. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/f3a32896603ca65be35de0470012cf5401c53d72)
+6. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/a8e88e28712206896d42caa9314115e9ed9e4096)
+7. ➕ Created a new branch [`update-existing-languages`](https://github.com/thegreatsourcerer/greetings-world/tree/update-existing-languages) in [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world)
+8. ➕ Created a new branch [`add-new-languages`](https://github.com/thegreatsourcerer/greetings-world/tree/add-new-languages) in [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world)
+9. 📝 Committed to [thegreatsourcerer/greetings-world](https://github.com/thegreatsourcerer/greetings-world/commit/4e23403e2b3b2a4d7b752ed9c1dfb7b547ce7cc4)
+10. 📝 Committed to [thegreatsourcerer/retroarch_system](https://github.com/thegreatsourcerer/retroarch_system/commit/8418123560434010cba33479fc9cac7d0b306185)
 <!--END_SECTION:activity-->
 
 
