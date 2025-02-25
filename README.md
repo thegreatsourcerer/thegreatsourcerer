@@ -5,8 +5,17 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Python and Go
 - 👯 I’m looking to collaborate on Open Source Projects
+- 👨‍💻 All my projects are available at [Github](https://github.com/thegreatsourcerer)
 - ⚡ Fun fact: I ❤️ 🐶s and Love gaming on my Nintendo Switch.
 
+---
+
+## My Top Contributions
+
+![](https://github-contributor-stats.vercel.app/api?username=thegreatsourcerer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
 
 ## :zap: My latest activity
 
@@ -23,6 +32,7 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 10. 📝 Committed to [thegreatsourcerer/amazingly-awesome-github-profile-readmes](https://github.com/thegreatsourcerer/amazingly-awesome-github-profile-readmes/commit/b74934ddb9d38c9b5b5bbd165046c82e9304db95)
 <!--END_SECTION:activity-->
 
+---
 
 ### My Contribution Graph
 
