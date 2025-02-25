@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/b2a090d373ab0f1e90e904f381d858f922136470)
-2. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/e7c8ed444cbd30c9989a258b3948ac1cbbcaab4f)
-3. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/github-actions-1/tree/main) in [thegreatsourcerer/github-actions-1](https://github.com/thegreatsourcerer/github-actions-1)
-4. 🎉 Created a new repository [thegreatsourcerer/github-actions-1](https://github.com/thegreatsourcerer/github-actions-1)
-5. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/eeb0275bc0d290f4b4d96749e8fa69c4666850bb)
-6. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/1fb461e52cd91fed538eccf8e439ae814c814dbb)
-7. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/dd256b2ee7e5fffabdceb9a65cc15b2d94005fc6)
-8. 📝 Committed to [thegreatsourcerer/github-profile-readme-actions](https://github.com/thegreatsourcerer/github-profile-readme-actions/commit/c7c0d1253d70142cb6a00c94c50f0984e166a240)
-9. 📝 Committed to [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions/commit/da30fd119f93a3dcb1efd6b14ef4af2f955e6220)
-10. 📝 Committed to [thegreatsourcerer/amazingly-awesome-github-profile-readmes](https://github.com/thegreatsourcerer/amazingly-awesome-github-profile-readmes/commit/b74934ddb9d38c9b5b5bbd165046c82e9304db95)
+1. 📝 Committed to [thegreatsourcerer/git-auto-commit-testing](https://github.com/thegreatsourcerer/git-auto-commit-testing/commit/871b9a71ae4e97d8ee31b148ad3c4f463f4d617d)
+2. 📝 Committed to [thegreatsourcerer/git-auto-commit-testing](https://github.com/thegreatsourcerer/git-auto-commit-testing/commit/d3d4a78c3152b3fe76a8f2c4f6f0c15ef5cb420e)
+3. 📝 Committed to [thegreatsourcerer/git-auto-commit-testing](https://github.com/thegreatsourcerer/git-auto-commit-testing/commit/777d589623dd12c8e7181d4f503b8aedf9023b83)
+4. 🎉 Created a new repository [thegreatsourcerer/git-auto-commit-testing](https://github.com/thegreatsourcerer/git-auto-commit-testing)
+5. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/git-auto-commit-testing/tree/main) in [thegreatsourcerer/git-auto-commit-testing](https://github.com/thegreatsourcerer/git-auto-commit-testing)
+6. 📝 Committed to [thegreatsourcerer/git-auto-commit-action-testing](https://github.com/thegreatsourcerer/git-auto-commit-action-testing/commit/8dd9b00e4b8f2faa2f7156a993e371d52fc1f7f0)
+7. 📝 Committed to [thegreatsourcerer/git-auto-commit-action-testing](https://github.com/thegreatsourcerer/git-auto-commit-action-testing/commit/e7f601ff41fc42412cec56fd15266b43a2f9c27e)
+8. 📝 Committed to [thegreatsourcerer/git-auto-commit-action-testing](https://github.com/thegreatsourcerer/git-auto-commit-action-testing/commit/d175158b23244d62cdcffad30d1cb3cd16ed7174)
+9. 🎉 Created a new repository [thegreatsourcerer/git-auto-commit-action-testing](https://github.com/thegreatsourcerer/git-auto-commit-action-testing)
+10. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/git-auto-commit-action-testing/tree/main) in [thegreatsourcerer/git-auto-commit-action-testing](https://github.com/thegreatsourcerer/git-auto-commit-action-testing)
 <!--END_SECTION:activity-->
 
 ---
