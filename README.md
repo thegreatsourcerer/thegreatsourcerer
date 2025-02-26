@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/tree/main) in [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers)
-2. 🎉 Created a new repository [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers)
-3. 🍴 Forked [Swilder-M/nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box)
-4. 🗑️ Deleted a branch `update-readme` in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
-5. 📝 Committed to [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/commit/fb88680579dae81c60965a9e1bf61f6654e7bd13)
-6. 🔀 Merged [PR #1](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/pull/1) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
-7. 📥 Opened [PR #1](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/pull/1) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
-8. ➕ Created a new branch [`update-readme`](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/tree/update-readme) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
-9. 📝 Committed to [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/commit/f282d72f0b7eab20ea81ca5036b3be4c413d0143)
-10. 🎉 Created a new repository [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
+1. 📥 Opened [PR #7](https://github.com/thegreatsourcerer/github-actions/pull/7) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+2. ➕ Created a new branch [`create-pull-request/patch`](https://github.com/thegreatsourcerer/github-actions/tree/create-pull-request/patch) in [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions)
+3. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/tree/main) in [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers)
+4. 🎉 Created a new repository [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers)
+5. 🍴 Forked [Swilder-M/nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box)
+6. 🗑️ Deleted a branch `update-readme` in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
+7. 📝 Committed to [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/commit/fb88680579dae81c60965a9e1bf61f6654e7bd13)
+8. 🔀 Merged [PR #1](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/pull/1) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
+9. 📥 Opened [PR #1](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/pull/1) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
+10. ➕ Created a new branch [`update-readme`](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing/tree/update-readme) in [thegreatsourcerer/github-get-latest-tag-action-testing](https://github.com/thegreatsourcerer/github-get-latest-tag-action-testing)
 <!--END_SECTION:activity-->
 
 ---
