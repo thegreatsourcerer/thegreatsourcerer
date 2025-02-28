@@ -2,7 +2,7 @@
 
 I'm Rishi, A 17yo High Schooler with a knack for tech
 
-- 🔭 I’m currently working on open source projects
+- 🔭 I’m currently working on A collection of Super Smash Bros Professional Players
 - 🌱 I’m currently learning Python and Go
 - 👯 I’m looking to collaborate on Open Source Projects
 - 👨‍💻 All my projects are available at [Github](https://github.com/thegreatsourcerer)
