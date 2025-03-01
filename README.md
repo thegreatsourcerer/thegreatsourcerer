@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
+1. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/75f158cc108e783ffb6171a49ec60dbd8dab37c1)
 2. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/github-automerge-action/tree/main) in [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
-3. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/5dcf259d13bac6ab513280fe6429760cab31049b)
-4. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/c9e19e5bd143c339d4ae82dc0a7a6238ebfc608a)
-5. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/github-automerge-action/tree/main) in [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
-6. 🎉 Created a new repository [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
-7. ⭐ Starred [CapciGithub/Growtopia-CID-Creator-v3](https://github.com/CapciGithub/Growtopia-CID-Creator-v3)
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+3. 🎉 Created a new repository [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
+4. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/daa5bdadc3a3c3665e46e9b7e635eac37b524697)
+5. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/155b4cfd6c05b97343238417a8ca15770f0de43a)
+6. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/5019e74d1177af571b3e9f71b36455f638ac75f4)
+7. 🎉 Created a new repository [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
+8. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/github-automerge-action/tree/main) in [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action)
+9. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/5dcf259d13bac6ab513280fe6429760cab31049b)
+10. 📝 Committed to [thegreatsourcerer/github-automerge-action](https://github.com/thegreatsourcerer/github-automerge-action/commit/c9e19e5bd143c339d4ae82dc0a7a6238ebfc608a)
 <!--END_SECTION:activity-->
 
 ---
