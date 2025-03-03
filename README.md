@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/ff97db5b7753fb2986f4968dc764d2d49dd62695)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/72620e6eb4090a8651677f7c57999f959d8f0309)
-6. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/aa2c62ef17f7163c0fadbef653ddae909b3869b9)
-7. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/441c5ec08ee1bba61434ec8e2240c88e1ba2499e)
-8. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/9857aae73988fba732c5d63cc2070c9de8e09dcf)
-9. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/7eae5a8c45e8d76d51e9774eef424c51241eb7f8)
-10. 🍴 Forked [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+1. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
+2. ⭐ Starred [xero/miasma.nvim](https://github.com/xero/miasma.nvim)
+3. ⭐ Starred [math0ne/dotfiles](https://github.com/math0ne/dotfiles)
+4. 📥 Opened [PR #21](https://github.com/pawelborkar/awesome-repos/pull/21) in [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
+5. 📝 Committed to [thegreatsourcerer/github-awesome-repositories](https://github.com/thegreatsourcerer/github-awesome-repositories/commit/be3185d6c19ac7e4f27328d42b042c91e239de34)
+6. 🍴 Forked [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
+7. ⭐ Starred [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
+8. ⭐ Starred [github/evergreen](https://github.com/github/evergreen)
+9. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/ff97db5b7753fb2986f4968dc764d2d49dd62695)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
 
 ---
