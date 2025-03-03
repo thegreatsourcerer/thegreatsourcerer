@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [xero/haunted-webring](https://github.com/xero/haunted-webring)
-2. ⭐ Starred [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
-3. ⭐ Starred [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
-4. ⭐ Starred [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
-5. ⭐ Starred [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone)
-6. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
-7. ⭐ Starred [xero/miasma.nvim](https://github.com/xero/miasma.nvim)
-8. ⭐ Starred [math0ne/dotfiles](https://github.com/math0ne/dotfiles)
-9. 📥 Opened [PR #21](https://github.com/pawelborkar/awesome-repos/pull/21) in [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
-10. 📝 Committed to [thegreatsourcerer/github-awesome-repositories](https://github.com/thegreatsourcerer/github-awesome-repositories/commit/be3185d6c19ac7e4f27328d42b042c91e239de34)
+1. 🍴 Forked [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
+2. ⭐ Starred [xero/haunted-webring](https://github.com/xero/haunted-webring)
+3. ⭐ Starred [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
+4. ⭐ Starred [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
+5. ⭐ Starred [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
+6. ⭐ Starred [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone)
+7. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
+8. ⭐ Starred [xero/miasma.nvim](https://github.com/xero/miasma.nvim)
+9. ⭐ Starred [math0ne/dotfiles](https://github.com/math0ne/dotfiles)
+10. 📥 Opened [PR #21](https://github.com/pawelborkar/awesome-repos/pull/21) in [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos)
 <!--END_SECTION:activity-->
 
 ---
