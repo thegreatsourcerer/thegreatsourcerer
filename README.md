@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🍴 Forked [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
-3. ⭐ Starred [xero/haunted-webring](https://github.com/xero/haunted-webring)
-4. ⭐ Starred [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
-5. ⭐ Starred [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
-6. ⭐ Starred [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
-7. ⭐ Starred [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone)
-8. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
-9. ⭐ Starred [xero/miasma.nvim](https://github.com/xero/miasma.nvim)
-10. ⭐ Starred [math0ne/dotfiles](https://github.com/math0ne/dotfiles)
+1. ➕ Created a new branch `main` in a private repo
+2. 🎉 Created a new private repository
+3. 📝 Committed to a private repo
+4. 🍴 Forked [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
+5. ⭐ Starred [xero/haunted-webring](https://github.com/xero/haunted-webring)
+6. ⭐ Starred [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
+7. ⭐ Starred [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
+8. ⭐ Starred [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
+9. ⭐ Starred [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone)
+10. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
 <!--END_SECTION:activity-->
 
 ---
