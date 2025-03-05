@@ -20,16 +20,16 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 ## :zap: My latest activity
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `main` in a private repo
-2. 🎉 Created a new private repository
-3. 📝 Committed to a private repo
-4. 🍴 Forked [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
-5. ⭐ Starred [xero/haunted-webring](https://github.com/xero/haunted-webring)
-6. ⭐ Starred [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)
-7. ⭐ Starred [6Bolt/Hook-Of-The-Reaper](https://github.com/6Bolt/Hook-Of-The-Reaper)
-8. ⭐ Starred [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
-9. ⭐ Starred [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone)
-10. ⭐ Starred [neeasade/dotfiles](https://github.com/neeasade/dotfiles)
+1. 📝 Committed to [thegreatsourcerer/SSBU-Matchups](https://github.com/thegreatsourcerer/SSBU-Matchups/commit/37afe0d98f07d2713779c8ba5ca04795125abe6b)
+2. ➕ Created a new branch [`main`](https://github.com/thegreatsourcerer/SSBU-Matchups/tree/main) in [thegreatsourcerer/SSBU-Matchups](https://github.com/thegreatsourcerer/SSBU-Matchups)
+3. 🎉 Created a new repository [thegreatsourcerer/SSBU-Matchups](https://github.com/thegreatsourcerer/SSBU-Matchups)
+4. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/3ee93d7bbf1dc655f179bc6bc49c72751604c100)
+5. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/f9bc6a75284be3c43888daa63abcd750eb7ff078)
+6. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/242decf2f36cc84c934ecac710fdf6c835e52ab8)
+7. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/9cdff6c07703919366082848ab83698e529f33f0)
+8. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/2fdd0eb613c534ea509bee3b45012e1b165dcd49)
+9. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/fed54558927bdff742d6b93aa123f2cc7558bbe9)
+10. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/96eeb35190a4cf87954a7f4716d05227875913ec)
 <!--END_SECTION:activity-->
 
 ---
