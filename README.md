@@ -26,10 +26,3 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 9. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/fed54558927bdff742d6b93aa123f2cc7558bbe9)
 10. 📝 Committed to [thegreatsourcerer/SSBU-Pro-Smashers](https://github.com/thegreatsourcerer/SSBU-Pro-Smashers/commit/96eeb35190a4cf87954a7f4716d05227875913ec)
 <!--END_SECTION:activity-->
-
----
-
-### My Contribution Graph
-
-![snake gif](https://github.com/thegreatsourcerer/thegreatsourcerer/blob/output/ocean.gif)
-
