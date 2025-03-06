@@ -10,9 +10,6 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 
 ---
 
-## My Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=thegreatsourcerer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
