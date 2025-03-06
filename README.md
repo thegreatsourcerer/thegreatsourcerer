@@ -8,8 +8,6 @@ I'm Rishi, A 17yo High Schooler with a knack for tech
 - 👨‍💻 All my projects are available at [Github](https://github.com/thegreatsourcerer)
 - ⚡ Fun fact: I ❤️ 🐶s and Love gaming on my Nintendo Switch.
 
----
-
 
 
 ---
